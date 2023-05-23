@@ -1,0 +1,9 @@
+/*  Barre de navigation */
+
+ul li
+{
+    display: inline-block;
+    color: aqua;
+    list-style: none;
+}
+
